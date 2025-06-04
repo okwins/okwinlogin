@@ -1,80 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="Play games and win real cash with OK Win - India's top online gaming and earning platform."/>
-  <title>OK Win - Play and Earn Real Cash</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f5f5f5;
-      color: #333;
-    }
-    .container {
-      max-width: 900px;
-      margin: 40px auto;
-      background: #fff;
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.05);
-    }
-    h1 {
-      color: #0d6efd;
-      text-align: center;
-      margin-bottom: 20px;
-    }
-    h2 {
-      color: #333;
-      margin-top: 30px;
-    }
-    p {
-      line-height: 1.7;
-      margin-bottom: 15px;
-    }
-    .cta {
-      text-align: center;
-      margin-top: 30px;
-    }
-    .cta a {
-      background: #0d6efd;
-      color: #fff;
-      padding: 12px 25px;
-      border-radius: 8px;
-      text-decoration: none;
-      font-weight: bold;
-      transition: background 0.3s;
-    }
-    .cta a:hover {
-      background: #0b5ed7;
-    }
-  </style>
-</head>
-<body>
+OK Win: Play, Enjoy, and Win Real Cash
+In today’s digital world, online gaming is more than just entertainment—it’s also a way to earn real money. Among the many platforms available, OK Win has emerged as a trusted and exciting destination for players across India who want to combine fun with profit. With its wide variety of games, secure payment system, and generous rewards, OK Win offers a complete online gaming experience.
 
-  <div class="container">
-    <h1>Welcome to OK Win</h1>
-    <p><strong>OK Win</strong> is India’s trusted online gaming and earning platform, offering a perfect combination of fun and real money rewards. Whether you're into classic card games or fast-paced prediction games, OK Win has something for everyone. Designed for players of all skill levels, the platform allows users to play, compete, and win real cash directly into their bank accounts or wallets.</p>
+What is OK Win?
+OK Win is an online gaming and earning platform where users can play popular games and win real cash. It features a range of games that include both skill-based and luck-based options. The most played titles on OK Win include Teen Patti, Rummy, Andar Bahar, Dragon vs Tiger, and the trending Color Prediction Game. The platform is available as a mobile app, making it easy for players to access games anytime, anywhere.
 
-    <h2>Exciting Game Options</h2>
-    <p>OK Win features a wide range of games like Teen Patti, Rummy, Andar Bahar, Dragon vs Tiger, and the Color Prediction Game. These games are easy to understand, fast to play, and full of excitement. Whether you're looking for strategy, luck, or a bit of both, OK Win delivers a thrilling experience.</p>
+Why OK Win is Popular
+One of the main reasons OK Win has gained popularity is its simple user interface and fast payout system. Even beginners can quickly understand how to play, deposit money, and withdraw their winnings. OK Win supports secure transactions through UPI, Paytm, PhonePe, and other popular payment gateways.
 
-    <h2>Earn Real Cash</h2>
-    <p>One of the most attractive aspects of OK Win is the real money rewards. Users can deposit funds securely using UPI, Paytm, or other methods and withdraw winnings with ease. The platform also offers daily bonuses, referral income, and promotions to help you maximize your earnings.</p>
+The platform also rewards users with daily bonuses, cashback offers, and referral commissions, allowing players to earn money even without playing continuously. Many users benefit from the referral system by inviting friends and earning a passive income as their referrals play and win.
 
-    <h2>Safe and User-Friendly</h2>
-    <p>OK Win takes your security seriously. With encrypted payment gateways and a clean, user-friendly interface, the platform ensures that your gaming experience is smooth and secure. New users can register in seconds and begin playing instantly.</p>
+Secure and Reliable
+OK Win takes player security seriously. It uses encrypted payment systems and secure servers to ensure that personal and financial data remain safe. The app also offers a transparent withdrawal policy, and most payments are processed within minutes to hours, depending on the method used.
 
-    <h2>Referral and Bonuses</h2>
-    <p>Refer friends to OK Win and earn commission on their activities. Daily login bonuses, spin-and-win prizes, and cashback offers keep users engaged and rewarded continuously.</p>
+Who Can Play?
+OK Win is open to Indian users aged 18 years and above. The platform is available in multiple Indian languages, making it accessible to a broader audience. Whether you’re from a big city or a small town, you can easily register on OK Win using your mobile number and start playing.
 
-    <div class="cta">
-      <p>Ready to play and win?</p>
-      <a href="#">Download OK Win Now</a>
-    </div>
-  </div>
+Final Thoughts
+OK Win is more than just an online gaming app—it’s a platform where entertainment meets opportunity. With its wide range of games, real money rewards, and secure ecosystem, it provides a fun and financially rewarding experience for its users. If you enjoy casual games and want to earn extra income from your mobile phone, OK Win is definitely worth trying.
 
-</body>
-</html>
